@@ -48,3 +48,6 @@ print(df2)
 
 sns.barplot(xlabel, ylabel, data=df2, palette="Blues_d").set_title(title)
 ```
+### Output file:
+
+![](https://github.com/mohanpratapa/Spark-NLP-Project/blob/main/Spark-NLP-Project.PNG)
